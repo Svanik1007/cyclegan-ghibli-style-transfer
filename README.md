@@ -11,6 +11,20 @@ This project uses CycleGAN to learn image-to-image translation between:
 
 without requiring paired training examples.
 
+## Project Statistics
+
+| Metric | Value |
+|----------|----------|
+| Model | CycleGAN |
+| Framework | PyTorch |
+| Dataset Size | 2500 images |
+| Image Resolution | 128 × 128 |
+| Batch Size | 1 |
+| Epochs Trained | 25 |
+| Optimizer | Adam |
+| Environment | Google Colab GPU |
+| Training Type | Unpaired Image-to-Image Translation |
+
 ## Technologies
 
 - Python
@@ -27,6 +41,8 @@ without requiring paired training examples.
 
 ## Results
 
+After 25 epochs, the model learned Ghibli-inspired color palettes, lighting, and texture patterns while preserving the overall scene structure.
+
 ### Waterfall Landscape
 
 ![Waterfall Landscape](results/waterfall_landscape.png)
@@ -42,6 +58,23 @@ without requiring paired training examples.
 ### Cloudy Grassland
 
 ![Cloudy Grassland](results/cloudy_grassland.png)
+
+## What I Learned
+
+- Implemented CycleGAN architecture from scratch in PyTorch
+- Built custom Dataset and DataLoader pipelines
+- Implemented adversarial, cycle consistency, and identity losses
+- Trained and resumed models using checkpoints
+- Managed GPU training on Google Colab
+- Evaluated image-to-image translation performance qualitatively
+
+## Future Improvements
+
+- Train on higher resolution images (256×256)
+- Train for 100+ epochs
+- Use mixed precision training
+- Experiment with larger Generator architectures
+- Add quantitative evaluation metrics
 
 ## Author
 
