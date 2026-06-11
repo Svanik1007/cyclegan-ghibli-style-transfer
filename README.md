@@ -39,6 +39,20 @@ without requiring paired training examples.
 - Epochs: 25
 - GPU: Tesla T4
 
+## Project Structure
+
+```text
+cyclegan-ghibli-style-transfer/
+├── README.md
+├── ghibli cyclegan.ipynb
+├── requirements.txt
+└── results/
+    ├── waterfall_landscape.png
+    ├── red_mailbox.png
+    ├── mountain_field.png
+    └── cloudy_grassland.png
+```
+
 ## Results
 
 After 25 epochs, the model learned Ghibli-inspired color palettes, lighting, and texture patterns while preserving the overall scene structure.
