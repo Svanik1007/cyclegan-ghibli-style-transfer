@@ -1,6 +1,6 @@
 # CycleGAN Ghibli Style Transfer
 
-A CycleGAN implementation in PyTorch that transforms real-world photos into Ghibli-style artwork.
+A PyTorch implementation of CycleGAN for unpaired image-to-image translation between real-world photographs and Studio Ghibli-style artwork.
 
 ## Overview
 
