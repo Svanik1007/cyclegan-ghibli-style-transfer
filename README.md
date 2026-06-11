@@ -27,7 +27,21 @@ without requiring paired training examples.
 
 ## Results
 
-(Results will be added here.)
+### Result 1
+
+![Result 1](results/Screenshot%202026-06-11%20181538.png)
+
+### Result 2
+
+![Result 2](results/Screenshot%202026-06-11%20181844.png)
+
+### Result 3
+
+![Result 3](results/Screenshot%202026-06-11%20181908.png)
+
+### Result 4
+
+![Result 4](results/Screenshot%202026-06-11%20181935.png)
 
 ## Author
 
