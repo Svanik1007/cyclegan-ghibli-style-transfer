@@ -44,7 +44,7 @@ without requiring paired training examples.
 ```text
 cyclegan-ghibli-style-transfer/
 ├── README.md
-├── ghibli cyclegan.ipynb
+├── ghibli_cyclegan.ipynb
 ├── requirements.txt
 └── results/
     ├── waterfall_landscape.png
