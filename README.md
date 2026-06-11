@@ -27,21 +27,21 @@ without requiring paired training examples.
 
 ## Results
 
-### Result 1
+### Waterfall Landscape
 
-![Result 1](results/Screenshot%202026-06-11%20181538.png)
+![Waterfall Landscape](results/waterfall_landscape.png)
 
-### Result 2
+### Red Mailbox
 
-![Result 2](results/Screenshot%202026-06-11%20181844.png)
+![Red Mailbox](results/red_mailbox.png)
 
-### Result 3
+### Mountain Field
 
-![Result 3](results/Screenshot%202026-06-11%20181908.png)
+![Mountain Field](results/mountain_field.png)
 
-### Result 4
+### Cloudy Grassland
 
-![Result 4](results/Screenshot%202026-06-11%20181935.png)
+![Cloudy Grassland](results/cloudy_grassland.png)
 
 ## Author
 
